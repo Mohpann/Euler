@@ -1,7 +1,4 @@
 // Connor Hunter
-// 2/15/24
-// Return to coding in c++ warmup
-// Project Euler's Problem 1
 
 #include <iostream> 
 using namespace std; 

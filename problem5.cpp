@@ -1,7 +1,5 @@
 // Connor Hunter
-// 2/17/24
-// Return to coding in c++ warmup
-// Project Euler's Problem 5
+
 #include <iostream>
 using namespace std;
 // does not work, brute force trying numbers and looping through 1-20 is slow and bogus...

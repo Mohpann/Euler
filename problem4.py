@@ -1,5 +1,5 @@
 #Connor Hunter
-#November 8th 2022
+
 """
 A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
 
